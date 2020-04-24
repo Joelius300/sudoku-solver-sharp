@@ -1,0 +1,2 @@
+A simple Sudoku Solver library using backtracking. Not very feature rich, nor super fast; I implemented it to better understand backtracking so I can explain it correctly.  
+I took a lot of inspiration from [this blog post](https://anothercasualcoder.blogspot.com/2019/01/sudoku-solver-hard-leetcode-problem.html).
